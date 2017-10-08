@@ -3,11 +3,12 @@
         "welcome_back": "Welcome back, {name}"
     },
     "footer": {
-        "brands": "Popular Brands",
+        "brands": "Dino Brands",
         "navigate": "Navigate",
         "info": "Info",
-        "categories": "Categories",
-        "call_us": "Call us at {phone_number}"
+        "categories": "Zoiks!",
+        "call_us": "Call us at {phone_number}",
+        "poweredby": "Straight up"
     },
     "home": {
         "heading": "Home"
@@ -40,7 +41,7 @@
                 "multiple": "check out with multiple addresses",
                 "or": "or"
             },
-            "button": "Check out",
+            "button": "Get dat merch!",
             "empty_cart": "Your cart is empty",
             "title": "Click here to proceed to checkout",
             "item": "Item",
@@ -75,7 +76,7 @@
             "empty_error": "Please enter your coupon code.",
             "cancel": "Cancel",
             "add_code": "Add code",
-            "add_coupon": "Add Coupon",
+            "add_coupon": "Soccer moms add coupons here",
             "button": "Apply",
             "coupon_code": "Enter your coupon code",
             "code_label": "Coupon ({code})",
@@ -90,7 +91,7 @@
             "remove": "Remove"
         },
         "shipping_estimator": {
-            "add_info": "Add Info",
+            "add_info": "Where you at?",
             "select_a_country": "Country",
             "select_a_state": "State/province",
             "estimate_shipping": "Estimate Shipping",
